@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Salchichon de 1 lb',
-            precio: 16000,
-            imagen: 'assets/img/salchichas.jpg',
+            nombre: 'Salchichon de 1 Lb.',
+            precio: 16500,
+            imagen: 'assets/img/salchichon 2.jpeg',
             categoria: 'salchichones'
         },
         {
@@ -21,28 +21,28 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 3,
             nombre: 'Chorizos x paq. 5 und peso aprox. 330 gr',
             precio: 16000,
-            imagen: 'assets/img/salchichas.jpg',
+            imagen: 'assets/img/chorizo 2.jpeg',
             categoria: 'Chorizo especial'
         },
         {
             id: 4,
             nombre: 'Queso x paq. 1 lb',
             precio: 15500,
-            imagen: 'assets/img/platoclasicocosteño.jpg',
+            imagen: 'assets/img/queso.jpg',
             categoria: 'Variedad de queso: soya y garbanzo'
         },
         {
             id: 5,
-            nombre: 'Mantequilla',
-            precio: 12000,
-            imagen: 'assets/img/',
-            categoria: 'bolsos'
+            nombre: 'Mantequilla Frasco de 250 gr.',
+            precio: 18000,
+            imagen: 'assets/img/mantequilla.webp',
+            categoria: 'Aceites o grasas'
         },
         {
             id: 6,
-            nombre: 'Postres de 250 gr.',
-            precio: 7000,
-            imagen: 'assets/img/',
+            nombre: 'Turrones de cacao x paq. de 30 und.',
+            precio: 120000,
+            imagen: 'assets/img/turrones.jpeg',
             categoria: 'Variedad de postres, turrones de mani, cacao y ajonjoli'
         }
     ];
